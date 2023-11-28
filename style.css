@@ -1,0 +1,18 @@
+.nav-link{
+    background-color: blue;
+    color: white;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 25px !important;
+}
+header{
+    border-bottom: 1px solid grey;
+}
+
+#courses .card{
+    margin-bottom: 30px;
+    box-shadow: 3px 4px 10px 4px black;
+}
+.modal form input{
+    margin-bottom: 10px;
+}
